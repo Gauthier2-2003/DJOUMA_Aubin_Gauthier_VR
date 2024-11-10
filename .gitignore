@@ -1,0 +1,16 @@
+# Unity generated files and folders
+Library/
+Temp/
+Logs/
+Obj/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+.idea/
+.vs/
+build/
+Builds/
